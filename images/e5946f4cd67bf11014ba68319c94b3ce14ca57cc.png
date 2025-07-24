@@ -1,0 +1,15 @@
+﻿<html>
+<head>
+<script language="javascript" type="text/javascript">
+if(top.location==self.location){
+self.location.replace("https://up.iranblog.com/آپلود_عکس_فایل.php")
+}
+</script>
+</head>
+
+<body onload="choosePic()">
+<h1>
+</h1>
+
+</body>
+</html>

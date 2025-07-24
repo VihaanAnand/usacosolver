@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://habreffect.ru/xmlrpc.php" />
+<title>Хабраэффект и заработок в интернете. Биржи статей, контента, ссылок</title>
+
+<!-- All in One SEO Pack 2.5 by Michael Torbert of Semper Fi Web Design[235,311] -->
+<meta name="description"  content="Покупка ссылок для продвижения сайта, продажа ссылок как заработок в сети. Покупка и продажа текстов для сайтов, Копирайтинг, рерайинг. переводы. Сервисы SEO" />
+
+<meta name="keywords"  content="Покупка ссылок, продвижение сайта, продажа ссылок, заработок в сети, покупка текстов, продажа текстов, копирайтинг, рерайинг, переводы, сервисы SEO, биржи ссылок, биржи статей" />
+<link rel='next' href='http://habreffect.ru/page/2/' />
+
+<link rel="canonical" href="http://habreffect.ru/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="HabrEffect.ru &raquo; Лента" href="http://habreffect.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HabrEffect.ru &raquo; Лента комментариев" href="http://habreffect.ru/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/habreffect.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='http://habreffect.ru/wp-content/plugins/captcha/css/front_end_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://habreffect.ru/wp-includes/css/dashicons.min.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='http://habreffect.ru/wp-content/plugins/captcha/css/desktop_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://habreffect.ru/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css'  href='http://habreffect.ru/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.85' type='text/css' media='all' />
+<link rel='stylesheet' id='mantras-css'  href='http://habreffect.ru/wp-content/themes/mantra/style.css?ver=2.5.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://habreffect.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://habreffect.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://habreffect.ru/wp-content/themes/mantra/js/frontend.js?ver=2.5.0'></script>
+<script type='text/javascript' src='http://habreffect.ru/wp-content/themes/mantra/js/nivo-slider.js?ver=2.5.0'></script>
+<link rel='https://api.w.org/' href='http://habreffect.ru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://habreffect.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://habreffect.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<script type="text/javascript">var ajaxurl = "http://habreffect.ru/wp-admin/admin-ajax.php"</script> <style type="text/css"> #wrapper, #access, #colophon, #branding, #main { width:1160px ;} #content { width:790px;} #primary,#secondary {width:310px;}#content, #content p, #content ul, #content ol, #content input, #content select, #content textarea{ font-size:15px; } #bg_image { display:block;margin:0 auto;} * , .widget-title {font-family:Helvetica, sans-serif ; } #content h1.entry-title a, #content h2.entry-title a, #content h1.entry-title , #content h2.entry-title {font-family:Georgia, Times New Roman, Times, serif ; } .widget-area * {font-family:Helvetica, sans-serif ; } .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 {font-family:Georgia, Times New Roman, Times, serif ; } .nocomments, .nocomments2 {display:none;} #header-container > div { margin-top:20px;} #header-container > div { margin-left:40px;} body { background-color:#c8d5d8 !important ;} #header { background-color:#c8d5d8 ;} #footer { background-color:#222222 ;} #footer2 { background-color:#171717 ;} #site-title span a { color:#0D85CC ;} #site-description { color:#999999 ;} #content, #content p, #content ul, #content ol { color:#333333 ;} .widget-area a:link, .widget-area a:visited, a:link, a:visited ,#searchform #s:hover , #container #s:hover, #access a:hover, #wp-calendar tbody td a , #site-info a ,#site-copyright a, #access li:hover > a, #access ul ul :hover > a { color:#0582c9;} a:hover, .entry-meta a:hover, .entry-utility a:hover , .widget-area a:hover { color:#12a7ff ;} #content .entry-title a, #content .entry-title, #content h1, #content h2, #content h3, #content h4, #content h5, #content h6{ color:#444444 ;} #content .entry-title a:hover { color:#000000 ;} .widget-title,#footer-widget-area .widget-title { background-color:#2b6a8f ;} .widget-title { color:#e7e7e7 ;} #footer-widget-area .widget-title { color:#12a7ff ; ;} #footer-widget-area a { color:#868686 ;} #footer-widget-area a:hover { color:#888888 ;} #content .wp-caption { background-image:url(http://habreffect.ru/wp-content/themes/mantra/images/pins/mantra_dot.png) ;} .entry-meta .author {display:none;} .entry-utility span.bl_bookmark {display:none;} #content p, .entry-content ul, .entry-summary ul , .entry-content ol, .entry-summary ol { margin-bottom:1.5em;} .entry-meta .entry-time {display:none;} #branding { height:100px ;} @media (max-width: 800px) {#branding, #bg_image { min-height:inherit !important; } } </style> 
+<style type="text/css">/* Mantra frontpage CSS */ #branding {display:none;} .slider-wrapper { display:block; float:none; width:100%; margin:0 auto; } #slider{ max-width:1200px ; height:333px ; margin:30px auto 20px; display:block; float:none; border:0px solid #EEEEEE; } #front-text1 h1, #front-text2 h1 { display:block; float:none; margin:35px auto; text-align:center; font-size:32px; clear:both; line-height:32px; font-weight:bold; color:#333333; } #front-text2 h1{ font-size:28px; line-height:28px; margin-top:0px; margin-bottom:25px; } #frontpage blockquote { width:88%; max-width:88% !important; margin-bottom:20px; font-size:16px; line-height:22px; color:#444; } #frontpage #front-text4 blockquote { font-size:14px; line-height:18px; color:#666; } #frontpage blockquote:before, #frontpage blockquote:after { content:none; } #front-columns > div { display:block; width:%; height:auto; margin-left:2%; margin-right:2%; margin-bottom:10px; float:left; } .column-image { height:125px; border:3px solid #eee; } .theme-default .nivo-controlNav {margin-left:0;} </style> 
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"><style>/* Mantra Custom CSS */ #footer2 { padding: 10px 0; text-align: center; } .wpcf7-textarea, .wpcf7-text { width: 50%; } .wpcf7-textarea { height: 150px; } .amoforms_iframe #amofroms_main_wrapper { box-shadow: 0 0 0 #ffffff !important; }</style>
+
+<!--[if lte IE 8]>
+<style type="text/css" media="screen">
+ #access ul  li,
+.edit-link a ,
+ #footer-widget-area .widget-title, .entry-meta,.entry-meta .comments-link,
+.short-button-light, .short-button-dark ,.short-button-color ,blockquote  {
+     position:relative;
+     behavior: url(http://habreffect.ru/wp-content/themes/mantra/js/PIE/PIE.php);
+   }
+
+#access ul ul {
+-pie-box-shadow:0px 5px 5px #999;
+}
+   
+#access  ul  li.current_page_item,  #access ul li.current-menu-item ,
+#access ul  li ,#access ul ul ,#access ul ul li, .commentlist li.comment	,.commentlist .avatar,
+ .nivo-caption, .theme-default .nivoSlider {
+     behavior: url(http://habreffect.ru/wp-content/themes/mantra/js/PIE/PIE.php);
+   }
+</style>
+<![endif]-->
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('hgroup');
+</script>
+<![endif]-->
+<script type="text/javascript">
+function makeDoubleDelegate(function1, function2) {
+// concatenate functions
+    return function() { if (function1) function1(); if (function2) function2(); }
+}
+
+function mantra_onload() {
+
+
+     // Add responsive videos
+     if (jQuery(window).width() < 800) jQuery(".entry-content").fitVids();
+}; // mantra_onload
+
+
+jQuery(document).ready(function(){
+     // Add custom borders to images
+     jQuery("img.alignnone, img.alignleft, img.aligncenter,  img.alignright").addClass("imageSeven");
+
+	// Add select navigation to small screens
+     jQuery("#access > .menu > ul").tinyNav({
+          	header: ' = Меню = '
+			});
+});
+
+// make sure not to lose previous onload events
+window.onload = makeDoubleDelegate(window.onload, mantra_onload );
+</script>
+<script type="text/javascript" src="/habr/fancybox/source/jquery.fancybox.pack.js"></script>
+<link rel="stylesheet" href="/habr/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+
+
+<script type="text/javascript">
+		jQuery(document).ready( function() {
+
+		  jQuery(".fancybox").fancybox({
+		  	margin     : [0, 0, 20, 0],
+		  	openEffect: 'elastic',
+  			closeEffect: 'elastic',
+  			autoSize: false, 
+  			autoHeight: true,
+  			'width': 600
+		  });
+
+		  function checkBar() {
+		  		// Check the window size
+			   if ( jQuery(window).width() <= 1650 ) {
+			   		// If we're 100px from the bottom, hide the bar
+				   if( ( jQuery(window).scrollTop() + jQuery(window).height() > jQuery(document).height() - 100 ) ) {
+				       jQuery('.habrbar-mobile').css('display', 'none');
+				   } else {
+				   	   jQuery('.habrbar-mobile').css('display', 'block');
+				   }
+			    } else {
+			    	jQuery('.habrbar-mobile').css('display', 'none');
+			    }
+			}
+
+		  // User can change the size of a window without scrolling	
+		  jQuery(window).scroll( checkBar );
+		  jQuery(window).resize( checkBar );
+
+		});
+	</script>
+
+	<style>
+		/* Pulse - Thanks to Hover.css */
+		@-webkit-keyframes hvr-pulse{25%{-webkit-transform:scale(1.1);transform:scale(1.1)}75%{-webkit-transform:scale(0.9);transform:scale(0.9)}}@keyframes hvr-pulse{25%{-webkit-transform:scale(1.1);transform:scale(1.1)}75%{-webkit-transform:scale(0.9);transform:scale(0.9)}}.fancybox-inner,.fancybox-outer{width:100%!important}.hvr-pulse{display:inline-block;vertical-align:middle;-webkit-transform:translateZ(0);transform:translateZ(0);box-shadow:0 0 1px transparent;-webkit-backface-visibility:hidden;backface-visibility:hidden;-moz-osx-font-smoothing:grayscale;opacity:1;-webkit-animation-name:hvr-pulse;animation-name:hvr-pulse;-webkit-animation-duration:5s;animation-duration:5s;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;z-index:1000}.hvr-pulse:active,.hvr-pulse:focus,.hvr-pulse:hover{-webkit-animation-name:none;animation-name:none;-webkit-animation-duration:0s;animation-duration:0s;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;opacity:1;display:inline-block;vertical-align:middle;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-backface-visibility:hidden;backface-visibility:hidden;-moz-osx-font-smoothing:grayscale;-webkit-transition-duration:.3s;transition-duration:.3s;-webkit-transition-property:transform;transition-property:transform;-webkit-transform:scale(1.1);transform:scale(1.1)}.cta-button{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;background:#3bafda;border-color:-moz-use-text-color -moz-use-text-color #2a8bcc;border-image:none;border-radius:6px;border-style:none none solid;border-width:0 0 2px;box-shadow:0 -2px #2a8bcc inset;cursor:pointer;font-size:22px;text-decoration:none;position:relative;text-align:center;text-shadow:0 1px 2px rgba(0,0,0,.25);vertical-align:middle;padding:15px 30px;width:50%;clear:both;color:#fff!important}.cta-button:hover{background:#4fc1e9}.desc-generic{display:none;width:100%}.desc-generic h3{font-weight:700;margin-bottom:25px}.desc-title{width:100%;text-align:center;font-size:2em}.desc-logo{margin:0 20px 20px 0;width:250px;float:left;box-shadow:0 0 2px #aaa}.desc-content{float:right;width:330px;font-size:15px;line-height:22.5px}.desc-divider{border:none;height:1px;width:90%;background-color:#ddd;margin:25px auto}.desc-buttons{width:100%;margin:0 auto 25px;text-align:center;clear:both}.fix-float{clear:both}.habrbar{position:fixed;top:60px;left:5px;width:250px;padding:10px 10px 10px 20px}.habrbar-mobile{z-index:1000;background-color:#bbb;box-sizing:border-box;opacity:.9;height:100px;position:fixed;left:0;bottom:0;width:100%;padding:10px 10px 10px 20px;display:none;text-align:center}.habrbar-mobile .hvr-pulse{width:80px!important;opacity:1!important;margin:5px 15px!important}@media screen and (max-width:1650px) and (min-width:1200px){.habrbar-mobile{display:block;height:100px}.habrbar{display:none}}@media screen and (max-width:1199px) and (min-width:880px){.habrbar-mobile{display:block;height:80px}.habrbar{display:none}.habrbar-mobile .hvr-pulse{width:50px!important}.mobile-item,.slider-wrapper{display:none}.mobile-item:nth-child(-n+9){display:inline-block}}@media screen and (max-width:879px) and (min-width:560px){.habrbar-mobile{display:block;height:80px}.habrbar{display:none}.habrbar-mobile .hvr-pulse{width:50px!important}.mobile-item,.slider-wrapper{display:none}.mobile-item:nth-child(-n+6){display:inline-block}}@media screen and (max-width:559px) and (min-width:500px){.habrbar-mobile{display:block;height:80px}.habrbar{display:none}.habrbar-mobile .hvr-pulse{width:50px!important}.mobile-item,.slider-wrapper{display:none}.mobile-item:nth-child(-n+5){display:inline-block}}@media screen and (max-width:499px) and (min-width:399px){.habrbar-mobile{display:block;height:150px}.habrbar{display:none}.habrbar-mobile .hvr-pulse{width:50px!important}.mobile-item,.slider-wrapper{display:none}.mobile-item:nth-child(-n+8){display:inline-block}}@media screen and (max-width:398px) and (min-width:150px){.habrbar-mobile{display:block;height:150px}.habrbar{display:none}.habrbar-mobile .hvr-pulse{width:50px!important}.mobile-item,.slider-wrapper{display:none}.mobile-item:nth-child(-n+6){display:inline-block}}
+
+		@media screen and (max-width: 600px) {
+			.desc-generic { text-align: center; }
+			.desc-logo    { clear: both; }
+			.desc-content { width: 100%; text-align: left; }
+			.cta-button   { font-size: 1.1em; }
+		}
+
+		@media screen and (max-width: 1650px) {
+			.video-advert { display: none; }
+		}
+
+		.video-advert     { position: fixed; right: -50px; top: 86px; }
+	</style>
+</head>
+<body class="home blog">
+
+<div id="toTop"> </div>
+<div id="wrapper" class="hfeed">
+
+<nav class="topmenu"><ul id="menu-verhnee-menyu" class="menu"><li id="menu-item-440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-440"><a href="http://habreffect.ru/tag/zarabotok-v-internete/">Заработок в Интернете</a></li>
+<li id="menu-item-763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-763"><a href="http://habreffect.ru/terminologiya/klyuchevye-slova/">Ключевые слова</a></li>
+<li id="menu-item-436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-436"><a href="http://habreffect.ru/tag/prodazha-statej/">Продажа статей</a></li>
+<li id="menu-item-437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-437"><a href="http://habreffect.ru/tag/pokupka-statej/">Покупка статей</a></li>
+<li id="menu-item-438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-438"><a href="http://habreffect.ru/tag/pokupka-ssylok/">Покупка ссылок</a></li>
+<li id="menu-item-439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-439"><a href="http://habreffect.ru/tag/prodazha-ssylok/">Продажа ссылок</a></li>
+<li id="menu-item-441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-441"><a href="http://habreffect.ru/tag/povedencheskie-faktory/">Поведенческие факторы</a></li>
+</ul></nav>
+<header id="header">
+
+		<div id="masthead">
+
+			<div id="branding" role="banner" >
+
+				<img id="bg_image" alt="" title="" src="http://habreffect.ru/wp-content/uploads/2015/01/head4.jpg"  />
+	<div id="header-container">
+
+
+<a href="http://habreffect.ru/" id="linky"></a></div>				<div style="clear:both;"></div>
+
+			</div><!-- #branding -->
+
+			<nav id="access" class="jssafe" role="navigation">
+
+				<div class="skip-link screen-reader-text"><a href="#content" title="Перейти к содержимому">Перейти к содержимому</a></div>
+<div class="menu"><ul id="prime_nav" class="menu"><li id="menu-item-393" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-393"><a href="http://habreffect.ru/">Главная</a></li>
+<li id="menu-item-1867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1867"><a href="http://habreffect.ru/category/biznes/">Вокруг денег</a></li>
+<li id="menu-item-1868" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1868"><a href="http://habreffect.ru/category/birzhi/">Биржи</a></li>
+<li id="menu-item-1869" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1869"><a href="http://habreffect.ru/category/sajty/">Сайты</a></li>
+<li id="menu-item-1870" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1870"><a href="http://habreffect.ru/category/poleznoe/">Полезное</a></li>
+<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459"><a href="http://habreffect.ru/terminologiya/">Терминология</a></li>
+</ul></div>
+			</nav><!-- #access -->
+
+		</div><!-- #masthead -->
+
+	<div style="clear:both;"> </div>
+
+</header><!-- #header -->
+<div id="main">
+<!-- habreffect bar -->
+
+	
+	<div class="habrbar">
+		<a class="fancybox" href="#advego-desc">
+			<img class="hvr-pulse" src="/habr/advego-birzha-kontenta.png" alt="ADVEGO" width="200" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox" href="#textsale-desc">
+			<img class="hvr-pulse" src="/habr/textsale-supermarket-unikalnogo-kontenta.png" alt="TextSale" width="200" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox" href="#rookee-desc">
+			<img class="hvr-pulse" src="/habr/rookee-sistema-dlja-prodvizheniya-saitov.png" alt="" width="200" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox" href="#gogetlinks-desc">
+			<img class="hvr-pulse" src="/habr/gogetlinks-razmescheniye-vechnykh-ssilok.png" alt="" width="200" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox" href="#miralinks-desc">
+			<img class="hvr-pulse" src="/habr/miralinks.png" alt="" width="200" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox" href="#rotapost-desc">
+			<img class="hvr-pulse" src="/habr/rotapost-effektivnaya-reklama-v-blogah.png" alt="RotaPost.ru - Эффективная реклама в блогах" width="200" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox" href="#neotext-desc">
+			<img class="hvr-pulse" src="/habr/neotext-birzha-kopiraytinga.png" alt="" width="200" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox" href="#mainlink-desc">
+			<img class="hvr-pulse" src="/habr/mainlink-prodazha-pokupka-ssilok.png" alt="" width="200" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox" href="#textbroker-desc">
+			<img class="hvr-pulse" src="/habr/textbroker-byuro-kopiraytinga.png" alt="" width="200" style="margin: 5px 0;" /></a>
+	</div>
+
+	<div class="habrbar-mobile">
+		<a class="fancybox mobile-item" href="#advego-desc">
+			<img class="hvr-pulse" src="/habr/advego-birzha-kontenta-min.png" alt="ADVEGO" width="100" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox mobile-item" href="#textsale-desc">
+			<img class="hvr-pulse" src="/habr/textsale-supermarket-unikalnogo-kontenta-min.png" alt="" width="100" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox mobile-item" href="#rookee-desc">
+			<img class="hvr-pulse" src="/habr/rookee-sistema-dlja-prodvizheniya-saitov-min.png" alt="" width="100" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox mobile-item" href="#gogetlinks-desc">
+			<img class="hvr-pulse" src="/habr/gogetlinks-razmescheniye-vechnykh-ssilok-min.png" alt="" width="100" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox mobile-item" href="#miralinks-desc">
+			<img class="hvr-pulse" src="/habr/miralinks-min.png" alt="" width="100" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox mobile-item" href="#rotapost-desc">
+			<img class="hvr-pulse" src="/habr/rotapost-effektivnaya-reklama-v-blogah-min.png" alt="RotaPost.ru - Эффективная реклама в блогах" width="100" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox mobile-item" href="#neotext-desc">
+			<img class="hvr-pulse" src="/habr/neotext-birzha-kopiraytinga-min.png" alt="" width="100" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox mobile-item" href="#mainlink-desc">
+			<img class="hvr-pulse" src="/habr/mainlink-prodazha-pokupka-ssilok-min.png" alt="" width="100" style="margin: 5px 0;" /></a>
+
+		<a class="fancybox mobile-item" href="#textbroker-desc">
+			<img class="hvr-pulse" src="/habr/textbroker-byuro-kopiraytinga-min.png" alt="" width="100" style="margin: 5px 0;" /></a>	
+	</div>
+	
+
+	<div class="desc-generic" id="advego-desc">
+        	
+			<h3 class="desc-title">
+        		ADVEGO
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/advego-website.jpg" alt="ADVEGO сайт" />
+
+        	<div class="desc-content">
+        		Одна из ведущих русскоязычных бирж копирайтинга Advego работает в Рунете с июня 2007 года и более 50% пользователей по праву считают ее лучшей. <br />
+        		Кроме традиционного постинга, переводов, рерайта и копирайта биржа предлагает такие услуги как вирусный маркетинг, раскрутка групп ВКонтакте, Facebook, лайки, голосования, приглашения, ... <a href="http://habreffect.ru/birzha-kopirajtinga-advego-krupnejshij-v-runete-postavshhik-kontenta/">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="http://advego.ru/3seYxtHySM" class="cta-button" rel="nofollow">Зарегистрироваться в ADVEGO!</a>
+			</div>    	
+    </div>
+
+    <div class="desc-generic" id="textsale-desc">
+        	
+			<h3 class="desc-title">
+        		TextSale
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/textsale-website.jpg" alt="TextSale сайт" />
+
+        	<div class="desc-content">
+        		Биржа статей была открыта в 2007 году, и сегодня она позиционирует себя как супермаркет уникального контента, насчитывая около 250 000 готовых текстов в продаже ...  <a href="http://habreffect.ru/birzha-statej-textsale-ru-supermarket-unikalnogo-kontenta/">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="http://www.textsale.ru/team390704.html" class="cta-button" rel="nofollow">Зарегистрироваться в TextSale!</a>
+			</div>    	
+    </div>
+
+
+	<div class="desc-generic" id="rookee-desc">
+        	
+			<h3 class="desc-title">
+        		Rookee
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/rookee-website.jpg" alt="Rookee сайт" />
+
+        	<div class="desc-content">
+        		Система автоматизированного поискового продвижения сайтов. Цель сервиса — высокие позиции сайтов и обеспечение самой полной, актуальной и наглядной информацией о результатах продвижения.  <a href="http://habreffect.ru/rookee-sistema-dlya-prodvizheniya-sajtov/">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="http://new.rookee.ru/?pid=76dfe34c13f0d770cc733bf52f543b9b4b765" rel="nofollow" class="cta-button">Зарегистрироваться в Rookee!</a>
+			</div>    	
+    </div>
+
+
+	<div class="desc-generic" id="gogetlinks-desc">
+        	
+			<h3 class="desc-title">
+        		GoGetLinks
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/gogetlinks-website.jpg" alt="GoGetLinks сайт" />
+
+        	<div class="desc-content">
+        		Сервис позволяет зарабатывать на собственных сайтах, размещая на них заметки и контекстные ссылки. Для оптимизатора этот сервис – уникальная возможность нарастить внешнюю ссылочную массу.  <a href="http://habreffect.ru/gogetlinks-birzha-vechnyh-ssylok-s-garantiej-indeksatsii/">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="http://www.gogetlinks.net/?inv=f5sspp" class="cta-button" rel="nofollow">Зарегистрироваться в GoGetLinks!</a>
+			</div>    	
+    </div>
+
+    <div class="desc-generic" id="miralinks-desc">
+        	
+			<h3 class="desc-title">
+        		Miralinks
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/miralinks-website.jpg" alt="Miralinks сайт" />
+
+        	<div class="desc-content">
+        		Специализированный сервис по размещению статей на выбранные интернет-ресурсы, с целью продвижения сайтов и для оптимизаторов и заработка веб-мастеров — владельцев сайтов.  <a href="http://habreffect.ru/gogetlinks-birzha-vechnyh-ssylok-s-garantiej-indeksatsii/">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="http://www.miralinks.ru/users/registration/from:28460" class="cta-button" rel="nofollow">Зарегистрироваться в Miralinks!</a>
+			</div>    	
+    </div>
+
+    <div class="desc-generic" id="rotapost-desc">
+        	
+			<h3 class="desc-title">
+        		RotaPost
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/rotapost-website.jpg" alt="RotaPost сайт" />
+
+        	<div class="desc-content">
+        		Ротапост - это проверенный инструмент для покупки рекламы в блогах и Твиттере или заработка на своем сайте   
+					<a href="http://habreffect.ru/vechnye-ssylki-v-novyh-statyah-na-birzhe-rotapost/">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="http://www.rotapost.ru/?a=pitiby" class="cta-button" rel="nofollow">Зарегистрироваться в RotaPost!</a>
+			</div>    	
+    </div>
+
+
+    <div class="desc-generic" id="neotext-desc">
+        	
+			<h3 class="desc-title">
+        		NeoText
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/neotext-birzha-kopiraytinga-website.jpg" alt="NeoText сайт" />
+
+        	<div class="desc-content">
+        		Сервис предоставляет вам быстрый, удобный и недорогой способ изготовления текстовых материалов: рекламные статьи, 
+        		онтент для наполнения сайтов, пресс-релизы, размножение статей.   
+					<a href="http://habreffect.ru/birzha-kopirajtinga-neotext/" rel="nofollow">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="http://neotext.ru/about_95003_service" rel="nofollow" class="cta-button">Зарегистрироваться в NeoText!</a>
+			</div>    	
+    </div>
+
+    <div class="desc-generic" id="mainlink-desc">
+        	
+			<h3 class="desc-title">
+        		MainLink
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/mainlink-prodazha-pokupka-ssilok-website.jpg" alt="MainLink сайт" />
+
+        	<div class="desc-content">
+        		Продвижение сайтов с помощью текстовых ссылок. 
+				Получение дохода от продажи ссылок на сайтах. 
+				<a href="http://habreffect.ru/mainlink-prodvinutyj-servis-kupli-prodazhi-ssylok/">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="http://www.mainlink.ru/?partnerid=94237" rel="nofollow" class="cta-button">Зарегистрироваться в MainLink!</a>
+			</div>    	
+    </div>
+
+    <div class="desc-generic" id="textbroker-desc">
+        	
+			<h3 class="desc-title">
+        		TextBroker
+        	</h3>
+
+        	<img class="desc-logo" src="/habr/textbroker-byuro-kopiraytinga-website.jpg" alt="TextBroker сайт" />
+
+        	<div class="desc-content">
+        		Одной из лучших бирж копирайтинга в рунете по праву считается TextBroker.ru. Сервис закрыт для авторов новичков: тщательный поиск копирайтеров и 
+        		отбор лучших кандидатов осуществляется по наличию серьезного портфолио и достижений в области копирайтинга. 
+				<a href="http://habreffect.ru/unikalnyj-kontent-vysokogo-kachestva-na-birzhe-kopirajtinga-textbroker/">Узнать больше</a>
+        	</div>
+
+        	<div class="fix-float"></div>
+			<hr class="desc-divider">
+
+			<div class="desc-buttons">
+				<a href="https://textbroker.ru/index.php?p=959" class="cta-button" rel="nofollow">Зарегистрироваться в TextBroker!</a>
+			</div>    	
+    </div>
+
+
+	<!-- end of habreffect bar -->
+	<div  id="forbottom" >
+		<div class="socials" id="smenur">
+			<a target="_blank" rel="nofollow" href="https://www.facebook.com/habreffect" class="socialicons social-Facebook" title="Facebook"><img alt="Facebook" src="http://habreffect.ru/wp-content/themes/mantra/images/socials/Facebook.png" /></a>
+			<a target="_blank" rel="nofollow" href="https://twitter.com/HabrEffect" class="socialicons social-Twitter" title="Twitter"><img alt="Twitter" src="http://habreffect.ru/wp-content/themes/mantra/images/socials/Twitter.png" /></a>
+			<a target="_blank" rel="nofollow" href="http://habreffect.ru/feed/" class="socialicons social-RSS" title="RSS"><img alt="RSS" src="http://habreffect.ru/wp-content/themes/mantra/images/socials/RSS.png" /></a></div>
+		<div style="clear:both;"> </div>
+		
+									
+<div id="mmgp-mwa-block-block580bc708d794agAnKARp">
+	<script async type="text/javascript" src="//adsmmgp.com/api?hash=block580bc708d794agAnKARp">
+	</script>
+</div>
+<script type="text/javascript">
+
+	// Flash animation for columns
+
+
+    jQuery(document).ready(function() {
+	// Slider creation
+        jQuery('#slider').nivoSlider({
+
+			effect: 'random',
+       		animSpeed: 750,
+						pauseTime: 5000
+						});
+
+    jQuery('#front-columns > div img').hover( function() {
+	      jQuery(this)
+			 .stop()
+             .animate({opacity: 0.5}, 100)
+             .fadeOut(100)
+			 .fadeIn(100)
+             .animate({opacity: 0.999}, 100) ;
+	}, function() {jQuery(this).stop();} )
+
+		});
+	</script>
+
+<div id="frontpage">
+ <div class="slider-wrapper theme-default">
+            <div class="ribbon"></div>
+            <div id="slider" class="nivoSlider slider-navhover">
+				    <a href=''><img  src='http://habreffect.ru/wp-content/uploads/2015/01/slide-03.jpg'  alt=""  /></a>    <a href='http://habreffect.ru/category/birzhi-ssylok/'><img  src='http://habreffect.ru/wp-content/uploads/2015/01/slide-02.jpg'  alt=""  /></a>    <a href='http://habreffect.ru/category/birzhi-statej'><img  src='http://habreffect.ru/wp-content/uploads/2015/01/slide-01.jpg'  alt=""  /></a>            </div>
+			            <div id="caption1" class="nivo-html-caption">
+                <h2></h2>            </div>
+			            <div id="caption2" class="nivo-html-caption">
+                <h2></h2>            </div>
+			            <div id="caption3" class="nivo-html-caption">
+                <h2></h2>            </div>
+			            <div id="caption4" class="nivo-html-caption">
+                <h2>http://habreffect.ru/wp-content/uploads/2017/11/bitcoin-debit-card.gif</h2>            </div>
+			            <div id="caption5" class="nivo-html-caption">
+                <h2></h2>            </div>
+			</div>
+<div id="front-text2"> <h1>Заработок и инвестиции в интернете на онлайн-биржах  </h1></div><div id="front-text3"> <blockquote>Для многих вопрос заработка в интернете кажется невозможным. Какую пользу можно принести в виртуальной среде виртуальным способом, да и кому она такая нужна? Даже не сомневайтесь в этом - и пользу можно приносить и зарабатывать неплохо. <br> <strong>Читайте материалы на нашем сайте и пробуйте свои силы!</strong> </blockquote></div><div id="front-text4"> <blockquote><!-- 7fb48177edf613ea --> </blockquote></div></div> <!-- frontpage -->
+ 		<section id="container">
+			<div id="content" role="main" style="width:96%;">
+			
+													
+										
+	<article id="post-1964" class="post-1964 post type-post status-publish format-standard has-post-thumbnail hentry category-besplatno category-biznes">
+		<header class="entry-header">	
+				<hgroup>
+					<h2 class="entry-title"><a href="http://habreffect.ru/professionalnyj-podhod-k-nalogovym-sporam-engroup-consult-com/" title="Постоянная ссылка: Профессиональный подход к налоговым спорам: engroup-consult.com" rel="bookmark">Профессиональный подход к налоговым спорам: engroup-consult.com</a></h2>
+				</hgroup>
+						<div class="entry-meta">
+				&nbsp;   <span class="onDate"> <a href="http://habreffect.ru/professionalnyj-podhod-k-nalogovym-sporam-engroup-consult-com/" title="12:51 пп" rel="bookmark"><span class="entry-date">Май 21, 2018</span> <span class="entry-time"> - 12:51 пп</span></a> <span class="bl_sep">|</span> </span> <span class="bl_categ"> <a href="http://habreffect.ru/category/biznes/besplatno/" rel="tag">Бесплатно</a>, <a href="http://habreffect.ru/category/biznes/" rel="tag">Вокруг денег</a> </span>  							<div class="comments-link">
+				<a href="http://habreffect.ru/professionalnyj-podhod-k-nalogovym-sporam-engroup-consult-com/#respond"><span class="dsq-postid" data-dsqidentifier="1964 http://habreffect.ru/?p=1964">Оставить комментарий</span></a>			</div>
+						</div><!-- .entry-meta -->
+			
+		
+		</header><!-- .entry-header -->
+								
+					
+						<div class="entry-summary">
+						<a href="http://habreffect.ru/professionalnyj-podhod-k-nalogovym-sporam-engroup-consult-com/" title="Профессиональный подход к налоговым спорам: engroup-consult.com" alt="Профессиональный подход к налоговым спорам: engroup-consult.com"><img width="300" height="170" src="http://habreffect.ru/wp-content/uploads/2018/05/calculator-385506_640-300x170.jpg" class="alignleft post_thumbnail wp-post-image" alt="налоги" /></a>						<p>Только профессионалы могут помочь владельцу бизнеса справиться с любыми спорами с налоговой. Подобные ситуации возникают довольно часто, хоть некоторые компании и обходят вовсе. Тем не менее если вы уже поняли, что вас ждут налоговые споры стоит задуматься о том, чтобы обсудить детали со специалистом. Чтобы долго не искать юридическую компанию рекомендуем посетить сайт engroup-consult.com. Здесь огромный спектр юридических услуг, которые обладают потрясающим качеством. Наши специалисты готовы вам помочь и сделают все возможное, чтобы в очередном … <a class="continue-reading-link" href="http://habreffect.ru/professionalnyj-podhod-k-nalogovym-sporam-engroup-consult-com/">далее <span class="meta-nav">&rarr; </span></a></p>
+						</div><!-- .entry-summary --> 
+								<footer class="entry-meta2">
+						</footer><!-- #entry-meta -->
+
+	</article><!-- #post-1964 -->
+	
+	
+										
+									
+										
+	<article id="post-1961" class="post-1961 post type-post status-publish format-standard has-post-thumbnail hentry category-forex tag-binarnye-optsiony">
+		<header class="entry-header">	
+				<hgroup>
+					<h2 class="entry-title"><a href="http://habreffect.ru/olymp-trade-chto-predstavlyayut-soboj-binarnye-optsiony-i-kak-zarabatyvat-na-nih/" title="Постоянная ссылка: Olymp Trade: Что представляют собой бинарные опционы и как зарабатывать на них" rel="bookmark">Olymp Trade: Что представляют собой бинарные опционы и как зарабатывать на них</a></h2>
+				</hgroup>
+						<div class="entry-meta">
+				&nbsp;   <span class="onDate"> <a href="http://habreffect.ru/olymp-trade-chto-predstavlyayut-soboj-binarnye-optsiony-i-kak-zarabatyvat-na-nih/" title="7:28 пп" rel="bookmark"><span class="entry-date">Май 16, 2018</span> <span class="entry-time"> - 7:28 пп</span></a> <span class="bl_sep">|</span> </span> <span class="bl_categ"> <a href="http://habreffect.ru/category/biznes/forex/" rel="tag">forex</a> </span>  							<div class="comments-link">
+				<a href="http://habreffect.ru/olymp-trade-chto-predstavlyayut-soboj-binarnye-optsiony-i-kak-zarabatyvat-na-nih/#respond"><span class="dsq-postid" data-dsqidentifier="1961 http://habreffect.ru/?p=1961">Оставить комментарий</span></a>			</div>
+						</div><!-- .entry-meta -->
+			
+		
+		</header><!-- .entry-header -->
+								
+					
+						<div class="entry-summary">
+						<a href="http://habreffect.ru/olymp-trade-chto-predstavlyayut-soboj-binarnye-optsiony-i-kak-zarabatyvat-na-nih/" title="Olymp Trade: Что представляют собой бинарные опционы и как зарабатывать на них" alt="Olymp Trade: Что представляют собой бинарные опционы и как зарабатывать на них"><img width="300" height="170" src="http://habreffect.ru/wp-content/uploads/2018/05/entrepreneur-2411763_640-300x170.jpg" class="alignleft post_thumbnail wp-post-image" alt="" /></a>						<p>Биржевые операции представляют интерес для многих людей, потому что, с их помощью удается неплохо заработать. Появление современных средств коммуникаций, таких как интернет, позволяет вести торговлю, находясь в любом месте земного шара. В среде трейдеров большой популярностью пользуются торговые операции с бинарными опционами. Бинарный опцион – это своеобразный контракт с финансовой биржей, позволяющий получать прибыль на движении цены выбранных активов. Они могут быть представлены валютой, ценными бумагами, сырьем и иными товарами. В качестве примера см. &#8212; … <a class="continue-reading-link" href="http://habreffect.ru/olymp-trade-chto-predstavlyayut-soboj-binarnye-optsiony-i-kak-zarabatyvat-na-nih/">далее <span class="meta-nav">&rarr; </span></a></p>
+						</div><!-- .entry-summary --> 
+								<footer class="entry-meta2">
+		<span class="bl_tagg">Метки: <a href="http://habreffect.ru/tag/binarnye-optsiony/" rel="tag">бинарные опционы</a></span>
+ 									</footer><!-- #entry-meta -->
+
+	</article><!-- #post-1961 -->
+	
+	
+										
+									
+										
+	<article id="post-1957" class="post-1957 post type-post status-publish format-standard has-post-thumbnail hentry category-content category-rabota">
+		<header class="entry-header">	
+				<hgroup>
+					<h2 class="entry-title"><a href="http://habreffect.ru/rabota-kopirajterom/" title="Постоянная ссылка: Работа копирайтером" rel="bookmark">Работа копирайтером</a></h2>
+				</hgroup>
+						<div class="entry-meta">
+				&nbsp;   <span class="onDate"> <a href="http://habreffect.ru/rabota-kopirajterom/" title="7:12 дп" rel="bookmark"><span class="entry-date">Май 10, 2018</span> <span class="entry-time"> - 7:12 дп</span></a> <span class="bl_sep">|</span> </span> <span class="bl_categ"> <a href="http://habreffect.ru/category/sajty/content/" rel="tag">Контент</a>, <a href="http://habreffect.ru/category/poleznoe/rabota/" rel="tag">Работа</a> </span>  							<div class="comments-link">
+				<a href="http://habreffect.ru/rabota-kopirajterom/#respond"><span class="dsq-postid" data-dsqidentifier="1957 http://habreffect.ru/?p=1957">Оставить комментарий</span></a>			</div>
+						</div><!-- .entry-meta -->
+			
+		
+		</header><!-- .entry-header -->
+								
+					
+						<div class="entry-summary">
+						<a href="http://habreffect.ru/rabota-kopirajterom/" title="Работа копирайтером" alt="Работа копирайтером"><img width="300" height="170" src="http://habreffect.ru/wp-content/uploads/2018/05/student-849825_640-300x170.jpg" class="alignleft post_thumbnail wp-post-image" alt="копирайтер" /></a>						<p>Основные преимущества работы копирайтером Говоря в целом о копирайтинге, то сегодня это одна из актуальных, популярных и востребованных вакансий Интернета. Кроме того, как показывает практика, именно таким способом желают работать и зарабатывать в сети многие люди, ведь если вы можете грамотно и уникально писать, то такая работа идеально подойдет вам. Основные преимущества Хочется заявить, что никто не заставляет вас работать, таким способом, как правило, это занятия на добровольных условиях, работать вы сможете в любое время, … <a class="continue-reading-link" href="http://habreffect.ru/rabota-kopirajterom/">далее <span class="meta-nav">&rarr; </span></a></p>
+						</div><!-- .entry-summary --> 
+								<footer class="entry-meta2">
+						</footer><!-- #entry-meta -->
+
+	</article><!-- #post-1957 -->
+	
+	
+										
+									
+										
+	<article id="post-1932" class="post-1932 post type-post status-publish format-standard has-post-thumbnail hentry category-kompyutery">
+		<header class="entry-header">	
+				<hgroup>
+					<h2 class="entry-title"><a href="http://habreffect.ru/peregrev-kompyutera/" title="Постоянная ссылка: Перегрев компьютера" rel="bookmark">Перегрев компьютера</a></h2>
+				</hgroup>
+						<div class="entry-meta">
+				&nbsp;   <span class="onDate"> <a href="http://habreffect.ru/peregrev-kompyutera/" title="12:01 дп" rel="bookmark"><span class="entry-date">Апрель 11, 2018</span> <span class="entry-time"> - 12:01 дп</span></a> <span class="bl_sep">|</span> </span> <span class="bl_categ"> <a href="http://habreffect.ru/category/poleznoe/kompyutery/" rel="tag">Компьютеры</a> </span>  							<div class="comments-link">
+				<a href="http://habreffect.ru/peregrev-kompyutera/#respond"><span class="dsq-postid" data-dsqidentifier="1932 http://habreffect.ru/?p=1932">Оставить комментарий</span></a>			</div>
+						</div><!-- .entry-meta -->
+			
+		
+		</header><!-- .entry-header -->
+								
+					
+						<div class="entry-summary">
+						<a href="http://habreffect.ru/peregrev-kompyutera/" title="Перегрев компьютера" alt="Перегрев компьютера"><img width="300" height="170" src="http://habreffect.ru/wp-content/uploads/2018/04/ar05-061-300x170.jpg" class="alignleft post_thumbnail wp-post-image" alt="кулер" /></a>						<p>Удивительно, как теряется большинство вполне технически грамотных людей, столкнувшись с миром компьютеров. Каждый, кто знает, с какой стороны подходить к компьютеру называется у них «программистом», а любой сбой компьютера обусловлен вирусами. Хотя практика показывает, что в 50% случаев пользователи виноваты в сбое сами, а еще в 25% происходят банальные сбои, характерные для любого прибора: перегрев, отсутствие контакта и т.д. Так что эта статья должна развеять страх человека перед машиной, и рассказать, какими неполадками бывает вызван … <a class="continue-reading-link" href="http://habreffect.ru/peregrev-kompyutera/">далее <span class="meta-nav">&rarr; </span></a></p>
+						</div><!-- .entry-summary --> 
+								<footer class="entry-meta2">
+						</footer><!-- #entry-meta -->
+
+	</article><!-- #post-1932 -->
+	
+	
+										
+									
+										
+	<article id="post-1925" class="post-1925 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe">
+		<header class="entry-header">	
+				<hgroup>
+					<h2 class="entry-title"><a href="http://habreffect.ru/kak-sdelat-vyvesku-svoimi-rukami/" title="Постоянная ссылка: Как сделать вывеску своими руками?" rel="bookmark">Как сделать вывеску своими руками?</a></h2>
+				</hgroup>
+						<div class="entry-meta">
+				&nbsp;   <span class="onDate"> <a href="http://habreffect.ru/kak-sdelat-vyvesku-svoimi-rukami/" title="8:22 пп" rel="bookmark"><span class="entry-date">Апрель 9, 2018</span> <span class="entry-time"> - 8:22 пп</span></a> <span class="bl_sep">|</span> </span> <span class="bl_categ"> <a href="http://habreffect.ru/category/poleznoe/" rel="tag">Полезное</a> </span>  							<div class="comments-link">
+				<a href="http://habreffect.ru/kak-sdelat-vyvesku-svoimi-rukami/#respond"><span class="dsq-postid" data-dsqidentifier="1925 http://habreffect.ru/?p=1925">Оставить комментарий</span></a>			</div>
+						</div><!-- .entry-meta -->
+			
+		
+		</header><!-- .entry-header -->
+								
+					
+						<div class="entry-summary">
+						<a href="http://habreffect.ru/kak-sdelat-vyvesku-svoimi-rukami/" title="Как сделать вывеску своими руками?" alt="Как сделать вывеску своими руками?"><img width="300" height="170" src="http://habreffect.ru/wp-content/uploads/2018/04/Vyiveski-391-300x170.jpg" class="alignleft post_thumbnail wp-post-image" alt="" /></a>						<p>В последние годы владельцы фирм, магазинов и предприятий чаще всего выбирать световые короба. Это специальная светотехническая вывеска, представленная в виде объемной конструкции с внешней поверхностью, сделанной из пропускающего свет материала, а также с тыльной и боковыми частями, выполненными из пластика или металла. Ее можно заказать в любой специализированной компании, однако, если не хочется тратить лишних денег, то можно сделать вывеску самостоятельно. Для этого потребуется: пленка Oracal, П-образный профиль из алюминия, монтажный провод; соединительные уголки, саморезы, … <a class="continue-reading-link" href="http://habreffect.ru/kak-sdelat-vyvesku-svoimi-rukami/">далее <span class="meta-nav">&rarr; </span></a></p>
+						</div><!-- .entry-summary --> 
+								<footer class="entry-meta2">
+						</footer><!-- #entry-meta -->
+
+	</article><!-- #post-1925 -->
+	
+	
+										
+				
+						</div><!-- #content -->
+			</section><!-- #container -->	<div style="clear:both;"></div>
+
+	</div> <!-- #forbottom -->
+	</div><!-- #main -->
+
+
+	<footer id="footer" role="contentinfo">
+		<div id="colophon">
+		
+			
+
+			<div id="footer-widget-area"  role="complementary"  class="footerfour" >
+
+				<div id="first" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-12" class="widget-container widget_text"><h3 class="widget-title">Биржи статей и копирайта</h3>			<div class="textwidget"><ul>
+<li><a href="http://habreffect.ru/birzha-statej-textsale-ru-supermarket-unikalnogo-kontenta/">TextSale.ru</a></li>
+<li><a href="http://habreffect.ru/miralinks-ru-legendarnaya-birzha-statej-s-vysokoj-effektivnostyu/">MiraLinks.Ru</a></li>
+<li><a href="http://habreffect.ru/unikalnyj-kontent-vysokogo-kachestva-na-birzhe-kopirajtinga-textbroker/">TextBroker.ru</a></li>
+<li><a href="http://habreffect.ru/birzha-kopirajtinga-neotext/">NeoText.ru</a>
+</li><li><a href="http://habreffect.ru/birzha-kopirajtinga-advego-krupnejshij-v-runete-postavshhik-kontenta/">Advego</a></li>
+<li><a href="http://habreffect.ru/obzor-birzhi-kontenta-etht-ru/">еТХТ.ru</a></li>
+<li><a href="http://habreffect.ru/obzor-birzhi-statej-copylancer-prodayushhie-teksty-za-adekvatnuyu-tsenu/">Copylancer.ru</a></li>
+<li><a href="http://habreffect.ru/birzha-kontenta-contentmonster-dlya-prodvizheniya-sajtov/">ContentMonster.ru</a></li>
+<li><a href="http://habreffect.ru/birzha-kopirajtinga-smart-copywriting/">SmartCopywriting.com</a></li>
+<li><a href="http://habreffect.ru/birzha-statej-novogo-pokoleniya-prodvizhenie-s-webartex">Webartex.ru</a></li>
+</ul></div>
+		</li>					</ul>
+				</div><!-- #first .widget-area -->
+
+				<div id="second" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-13" class="widget-container widget_text"><h3 class="widget-title">Биржи ссылок</h3>			<div class="textwidget"><ul>
+<li><a href="http://habreffect.ru/gogetlinks-birzha-vechnyh-ssylok-s-garantiej-indeksatsii/">GoGetLinks.ru</a></li>
+<li><a href="http://habreffect.ru/vechnye-ssylki-v-novyh-statyah-na-birzhe-rotapost/">Rotapost.ru</a></li>
+<li><a href="http://habreffect.ru/mainlink-prodvinutyj-servis-kupli-prodazhi-ssylok/">Mainlink.ru</a></li>
+<li><a href="http://habreffect.ru/zarabotok-na-ssylkah-nyuansy-birzhi-sape-ru/">Sape.ru</a></li>
+<li><a href="http://habreffect.ru/obzor-sistemy-seopult-prodvizhenie-za-granyu-realnosti/">SEOpult</a></li>
+<li><a href="http://habreffect.ru/obzor-gogettop-ru-vechnye-ssylki-v-rassrochku-s-garantiej-indeksatsii/">GoGetTop.Ru</a></li>
+<li><a href="http://habreffect.ru/birzha-trastovyh-ssylok-trustlink-prodvizhenie-budushhego/">Trustlink.ru</a></li>
+<li><a href="http://habreffect.ru/obzor-blogun-prodvizhenie-sajta-v-blogah-i-sotsialnyh-setyah/">Blogun.Ru</a></li>
+<li><a href="http://habreffect.ru/obzor-linkfeed-ru-krupnaya-birzha-ssylok-ili-ten-sape/">LinkFeed</a></li>
+</ul>
+</div>
+		</li>					</ul>
+				</div><!-- #second .widget-area -->
+
+				<div id="third" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-14" class="widget-container widget_text"><h3 class="widget-title">SEO-сервис</h3>			<div class="textwidget"><ul>
+<li><a href="http://habreffect.ru/rookee-sistema-dlya-prodvizheniya-sajtov/">Rookee.ru</a></li>
+<li><a href="http://habreffect.ru/otsenka-stoimosti-prodvizheniya-sajta-vmeste-s-seobudget/">SEOBudget.ru</a></li>
+<li><a href="http://habreffect.ru/sistema-megaindex-effektivnyj-rezultat-ot-prodvizheniya-za-adekvatnuyu-tsenu/">MegaIndex.ru</a></li>
+<li><a href="http://habreffect.ru/obzor-pr-cy-ru-instrumenty-dlya-vebmastera-seo-analiz-audit-sajta/">PR-CY.ru</a></li>
+<li><a href="http://habreffect.ru/kuvalda-ot-seohammer-avtomaticheskoe-prodvizhenie-sajta-v-top">SeoHammer</a></li>
+<li><a href="http://habreffect.ru/obzor-seoanalizator-ru-kompleksnyj-analiz-sajta/">SeoAnalizator.Ru</a></li>
+<li><a href="http://habreffect.ru/xtool-ru-analizator-trastovyh-pokazatelej-sajta/">XTool.ru</a></li>
+<li><a href="http://habreffect.ru/obzor-sbup-com-besplatnyj-seo-audit-dlya-vashih-sajtov/">Sbup.com</a></li>
+</ul>
+
+</div>
+		</li><li id="text-2" class="widget-container widget_text">			<div class="textwidget"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'/>< \/a>")
+//--></script><!--/LiveInternet--></div>
+		</li>					</ul>
+				</div><!-- #third .widget-area -->
+
+				<div id="fourth" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-15" class="widget-container widget_text"><h3 class="widget-title">Полезное</h3>			<div class="textwidget"><ul>
+<li><a href="http://habreffect.ru/obzor-populyarnyh-fotostokov/">Фотостоки</a> </li>
+<li><a href="http://habreffect.ru/obzor-telderi-birzha-kupli-prodazhi-sajtov-i-garant-uspeshnoj-sdelki/">Telderi.ru</a> </li>
+<li><a href="http://habreffect.ru/servis-obmena-vpechatleniyami-imho-24/">imho24.ru</a> </li>
+<li><a href="http://habreffect.ru/avtomaticheskaya-monetizatsiya-sajtov-s-bystropost/">bystropost.ru</a> </li>
+<li><a href="http://habreffect.ru/skolko-mozhet-stoit-vashe-mnenie-na-sajte-otzyvov-rutinto">РуТинто.Ру</a> </li>
+<li><a href="http://habreffect.ru/kak-poluchat-estestvennye-ssylki-i-dlya-chego-nuzhny-birzhi-statej-birzhi-kommentariev-birzhi-sotsialnogo-prodvizheniya/">Как получать естественные ссылки и для чего нужны биржи </a> </li>
+<li><a href="http://habreffect.ru/o-sovremennom-programmirovanii/">О современном программировании</a> </li>
+</ul></div>
+		</li><li id="text-18" class="widget-container widget_text">			<div class="textwidget">
+<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);
+</script>
+<div data-background-alpha="0.0" data-buttons-color="#FFFFFF" data-counter-background-color="#ffffff" data-share-counter-size="12" data-top-button="false" data-share-counter-type="common" data-share-style="1" data-mode="share" data-like-text-enable="false" data-mobile-view="true" data-icon-color="#ffffff" data-orientation="horizontal" data-text-color="#000000" data-share-shape="round-rectangle" data-sn-ids="fb.vk.tw.ok.gp." data-share-size="30" data-background-color="#ffffff" data-preview-mobile="false" data-mobile-sn-ids="fb.vk.tw.wh.ok.gp." data-pid="1399864" data-counter-background-alpha="1.0" data-following-enable="false" data-exclude-show-more="false" data-selection-enable="true" class="uptolike-buttons" ></div></div>
+		</li>					</ul>
+				</div><!-- #fourth .widget-area -->
+			</div><!-- #footer-widget-area -->
+			
+		</div><!-- #colophon -->
+
+		
+	</footer><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter28913265 = new Ya.Metrika({
+                    id:28913265,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/28913265" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><link rel='stylesheet' id='mantra-mobile-css'  href='http://habreffect.ru/wp-content/themes/mantra/style-mobile.css?ver=2.5.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/habreffect.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435, \u0447\u0442\u043e \u0432\u044b \u043d\u0435 \u0440\u043e\u0431\u043e\u0442."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://habreffect.ru/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"habreffect"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://habreffect.ru/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"http:\/\/habreffect.ru\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/habreffect.ru\/wp-admin\/admin-ajax.php","text_wait":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043d\u0435 \u0433\u043e\u043b\u043e\u0441\u0443\u0439\u0442\u0435 \u0437\u0430 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0437\u0430\u043f\u0438\u0441\u0435\u0439 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e.","image":"stars","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="http://habreffect.ru/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";;
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://habreffect.ru/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.85'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"primary-widget-area","margin_top":50,"margin_bottom":500,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["execphp-6"]}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://habreffect.ru/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4'></script>
+<script type='text/javascript' src='http://habreffect.ru/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+</body>
+</html>
